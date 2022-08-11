@@ -1,0 +1,12 @@
+@shadowhelp = (
+"4SHaDoW Guardian de los Modos de DarkBolt",
+"Mas Ayuda:12/msg SHaDoW HELP <comando>.",
+"Comandos:12/msg SHaDoW <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del Bot.",
+"12JOIN Mete al Bot en un Canal.",
+"12PART Saca al Bot de un Canal.",
+"12CREDITOS Muestra los Creditos del Bot.",
+" \n",
+);
+1;

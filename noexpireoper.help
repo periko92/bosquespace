@@ -1,0 +1,18 @@
+@noexpireoperhelp = (
+"4NoExPiRe este Servicio te permite que tu nick noexpire",
+"en los 365 dias del año aunque no uses el nick en DarkBolt",
+"Mas Ayuda:12/msg NoExPiRe HELP <comando> .",
+"Para Ejecutar Comandos:12/msg NoExPiRe <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del Bot.",
+"12ALTA Da de alta a un nick en NoExPiRe.",
+"12BAJA Da de baja a un nick en NoExPiRe.",
+"12CREDITOS Muestra los creditos del Bot.",
+"12JOIN Mete al Bot en un Canal.",
+"12PART Saca al Bot de un Canal.",
+" \n",
+"4AVISO: El uso malintencionado del Bot contribuirá a la suspensión",
+"total del servicio por parte de la red.",
+);
+1;
+

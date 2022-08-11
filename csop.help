@@ -1,0 +1,22 @@
+@csophelp = (
+"4CSoP 1 este Servicio es Utilizado para los CServices.",
+"Mas Ayuda:12/msg CSoP HELP <comando> .",
+"Para Ejecutar Comandos:12/msg CSoP <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del Bot.",
+"12OP Da OP a un Usuario de un Canal.",
+"12DEOP Quita modo op a un Usuario de un Canal.",
+"12VOICE Da modo +v a un Usuario de un Canal.",
+"12DEVOICE Quita modo +v a un Usuario de un Canal.",
+"12KILL Expulsa de la Red a un Usuario.",
+"12KICK Expulsa de un Canal el Bot a un Usuario.",
+"12BAN Barnea al Bot a un Usuario de un Canal.",
+"12KICKBAN Kickea y Barnea el Bot a un Usuario de un Canal.",
+"12INVITE Hace un Invite a un Nick en un Canal de la Red.",
+"12MODE Cambia los Modos de un canal de UniRed.Org.",
+"12CREDITOS Muestra los autores del CSoP BoT.",
+" \n",
+"4NOTA:1El mal uso intencionado del bot provocara el desregistro",
+"de cservice en la Red.",
+);
+1;

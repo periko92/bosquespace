@@ -1,0 +1,15 @@
+@nick2operhelp = (
+"4NiCK2 1 este Servicio proteje los nicks con el Flag +r",
+"Mas Ayuda:12/msg NiCK2 HELP <comando>.",
+"Para Ejecutar Comandos:12/msg NiCK2 <comando> <parametro>.",
+" \n",
+"12REGISTER Registra el nick en la BDD.",
+"12DROP Desregistra el nick de la BDD. ",
+"12SETPASS Cambia la Password de tu Nick.",
+"12INFO Muestra la informacion de un Nick.",
+"12JOIN Mete al Bot en un Canal.",
+"12PART Saca al Bot de un Canal.",
+" \n",
+"4NOTA: No hagas mal uso del Bot o dañaras la BDD.",
+);
+1;

@@ -1,0 +1,18 @@
+@suxhelp = (
+"4SuX Controla la Base de Datos de las Ilines para Clones DarkBolt",
+"Mas Ayuda: 12/msg SuX HELP <comando>.",
+"Para Ejecutar Comandos: 12/msg SuX <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del BoT.",
+"12ADDILINE Crea una Iline en la BDD.",
+"12DELILINE1 Borra una Iline de la BDD.",
+"12INFO1 Muestra Infomacion sobre una Iline.",
+"12CLONES Modifica el Maximo de Clones por IP.",
+"12JOIN Mete al BoT en un Canal.",
+"12PART Saca al BoT de un Canal.",
+"12CREDITOS Muestra los Creditos del BoT",
+" \n",
+"4NOTA: El Mal uso del bot SuX puede provocar problemas",
+"en la BDD del Servidor.",
+);
+1;

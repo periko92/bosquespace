@@ -1,0 +1,17 @@
+@suxhelp = (
+"12SuX Controla la BDD de las I-Lines para Clones en DarkBolt.",
+" \n",
+"Mas Ayuda: 12/msg SuX HELP <comando>.",
+"Para Ejecutar Comandos: 12/msg SuX <comando> <parametro>.",
+" \n",
+"12ADDILINE Crea una I-Line en la BDD.",
+"12DELILINE1 Borra una I-Line de la BDD.",
+"12INFO1 Muestra infomación sobre una I-line.",
+"12CLONES Modifica el máximo de clones por IP en la red.",
+"12JOIN Mete al bot en un Canal.",
+"12PART Saca al bot de un Canal.",
+" \n",
+"4NOTA: El mal uso del bot SuX puede provocar problemas",
+"en la BDD del servidor.",
+);
+1;

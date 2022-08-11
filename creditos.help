@@ -1,0 +1,14 @@
+@creditos = (
+"4DarkServices v1.0 Creados para DarkBolt",
+"----------------------------------------------------",
+"12Creados: Por DJ_MeTRaL para DarkBolt ",
+"12Lenguaje: Perl.",
+"12Email: diablillo_1992@hotmail.com",
+" \n",
+"Estos bots han sido creados para la utilizacion en",
+"DarkBolt y los Bots solo se usaran en esta Red.",
+"Si encuentras algun problema en los bots, Avisa",
+"en la Red o envia un Email,Gracias.",
+" ----------------------------------------------------",
+);
+1;

@@ -1,0 +1,17 @@
+@antispamhelp = (
+"4AntiSpam1 este Servicio controla la Publicidad de DarkBolt",
+"Mas Ayuda:12/msg AntiSpam HELP <comando> .",
+"Para Ejecutar Comandos:12/msg AntiSpam <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del Bot.",
+"12KILL Pone un Kill a un Spamer.",
+"12GLINE Pone un Gline a un Spamer.",
+"12TEST Hace la Comprobación de Bots Publicitarios.",
+"12JOIN Mete al Bot en un Canal.",
+"12PART Saca al Bot de un Canal.",
+"12CREDITOS Muestra los Creditos del Bot.",
+" \n",
+"4AVISO: No pongas Kills a usuarios inocentes porque sino",
+"podra jugarse el registro de operador/administrador.",
+);
+1;

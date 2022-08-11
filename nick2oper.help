@@ -1,0 +1,15 @@
+@nick2operhelp = (
+"12NiCK2 Permite registrar el nick en la BDD con el flag +r. Para ejecutar un comando 12/msg NiCK2 <comando> <parametro>.",
+" \n",
+"12REGISTER Registra su nick en la BDD y obtiene el flag +r.",
+"12SETPASS Cambia la contraseña de su nick.",
+"12INFO Muestra si un nick está o no en la BDD.",
+"12DROP Borra su nick de la BDD y pierde el flag +r.",
+"12JOIN Mete al bot en un canal.",
+"12PART Saca al bot de un canal.",
+" \n",
+"4NOTA:Comando para recuperar su nick ghost 12/ghost <elnick> <lapass>.",
+" \n",
+"4IMPORTANTE: El mal uso de este servicio puede llegar a la suspension del nick.",
+);
+1;

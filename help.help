@@ -1,0 +1,22 @@
+@helphelp = (
+"4HeLP 1 Servicio de Ayuda a Usuarios de DarkBolt",
+"Mas Ayuda: 12/msg HeLP HELP <comando>.",
+"Para Ejecutar Comandos:12/msg HeLP <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del BoT HeLP.",
+"12UMODES Muestra los modos de Usuario.",
+"12NICK Ayuda de como registrar un nick.",
+"12FLAG Muestra la Ayuda de Obtencion del Flag +r.",
+"12VHOST Ayuda de como conseguir una Virtual Host.",
+"12CANAL Ayuda de Registro de Canales.",
+"12BOTS Lista de bots del IRC.",
+"12IRCOPS Te muestra todos los IRCOPS activos.",
+"12SERVERS Muestra la Lista de Servidores Linkeados.",
+"12PREGUNTA Envia tu pregunta a un operador.",
+" \n",
+
+"4NOTA: Si tienes alguna duda que el bot no te la pueda ",
+"resolver entre en #opers_help y te ayudaran.",
+);
+1;
+

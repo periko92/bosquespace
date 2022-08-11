@@ -1,0 +1,1909 @@
+syntax error at servicios.pl line 332, near "else"
+syntax error at servicios.pl line 1288, near "}"
+Execution of servicios.pl aborted due to compilation errors.
+:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :Botss
+:world.spainchat.net SERVER bad.moon 1 1053459810 1053520703 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 9 2
+S DB * 0 J 0 a
+S DB * 0 J 0 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 0 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 1 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 4 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER devel.space 2 0 1053519163 P10 UP] 0 :Servicios de Operadores
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S NICK Drazix 1 1053460626 LeGeN dragon.digitalsec.net +xi DPLMwE SAC :ADMINistrador SpainChat
+S NICK BaLTaZh0r 1 1053460632 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAD :Admin
+S NICK Nach 1 1053460647 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAE :No hay nada malo en desearlo...
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK kDs 1 1053460662 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAG :A veces soy un IDle
+S NICK sasaas 1 1053461346 tecno dragon.digitalsec.net +xi DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+S NICK YeTnEdLaC 1 1053463843 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAR :KaOs
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+U NICK CenTraL 2 1053519163 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053519163 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053519163 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+I NICK tolken 2 1053519932 Spain 62-43-42-125.user.ono.com +rx A[Kyp9 IAA :KaOs
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #amigos 1053460658 SAE:o
+S BURST #melilla 1053460652 SAG,SAE:o
+S BURST #scripting 1053460649 SAG,SAD:o
+S BURST #opers_help 1053460641 +mtn SAC
+S BURST #Debug 1053460639 +smtinRMlk 1 spainchat SAR,SAC,UAB:v,UAA,6AE:o,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAR,SAJ,SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #radio 1053460633 +tn SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #shells 1053460632 +tn SAJ,SAI,SAH,SAE,SAD,SAC
+S BURST #psybnc 1053460632 +tn SAH,SAG,SAE,SAD,SAC
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAR,SAC:o
+S END_OF_BURST
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[Bosque.space])
+:tolken PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='tolken' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='tolken' R]
+:tolken PRIVMSG HAD :drop
+:tolken MODE tolken :-r
+IAA NICK al 1053520737
+IAA NICK tolken 1053520739
+:tolken PRIVMSG HAD :register
+:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053520942 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 11 2
+S DB * 0 J 0 a
+S DB * 0 J 0 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 0 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 1 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 6 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER devel.space 2 0 1053519163 P10 UP] 0 :Servicios de Operadores
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S NICK Drazix 1 1053460626 LeGeN dragon.digitalsec.net +xi DPLMwE SAC :ADMINistrador SpainChat
+S NICK BaLTaZh0r 1 1053460632 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAD :Admin
+S NICK Nach 1 1053460647 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAE :No hay nada malo en desearlo...
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK kDs 1 1053460662 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAG :A veces soy un IDle
+S NICK sasaas 1 1053461346 tecno dragon.digitalsec.net +xi DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+S NICK YeTnEdLaC 1 1053463843 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAR :KaOs
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+U NICK CenTraL 2 1053519163 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053519163 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053519163 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+I NICK tolken 2 1053520813 Spain 62-43-42-125.user.ono.com +rx A[Kyp9 IAA :KaOs
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+S BURST #Manacor 1053520922 IAB:o
+S BURST #opers 000000000 SAR
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #amigos 1053460658 SAE:o
+S BURST #melilla 1053460652 SAG,SAE:o
+S BURST #scripting 1053460649 SAG,SAD:o
+S BURST #opers_help 1053460641 +mtn SAC
+S BURST #Debug 1053460639 +smtinRMlk 1 spainchat SAR,SAC,UAB:v,UAA,6AE:o,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAR,SAJ,SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #radio 1053460633 +tn SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #shells 1053460632 +tn SAJ,SAI,SAH,SAE,SAD,SAC
+S BURST #psybnc 1053460632 +tn SAH,SAG,SAE,SAD,SAC
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAR,SAC:o
+S END_OF_BURST
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[Bosque.space])
+SAR PART #opers
+:tolken PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='tolken' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='tolken' R]
+:tolken PRIVMSG HAB :delhost
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR No tienes permiso para acc]
+:tolken PRIVMSG HAB :vhost ToLkeN
+:tolken MODE tolken :-r
+IAA NICK al 10535209:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053521058 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 11 2
+S DB * 0 J 0 a
+S DB * 0 J 0 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 0 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 1 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 8 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER devel.space 2 0 1053519163 P10 UP] 0 :Servicios de Operadores
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S NICK Drazix 1 1053460626 LeGeN dragon.digitalsec.net +xi DPLMwE SAC :ADMINistrador SpainChat
+S NICK BaLTaZh0r 1 1053460632 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAD :Admin
+S NICK Nach 1 1053460647 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAE :No hay nada malo en desearlo...
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK kDs 1 1053460662 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAG :A veces soy un IDle
+S NICK sasaas 1 1053461346 tecno dragon.digitalsec.net +xi DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+S NICK YeTnEdLaC 1 1053463843 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAR :KaOs
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+U NICK CenTraL 2 1053519163 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053519163 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053519163 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+I NICK ToLkeN 2 1053520984 Spain 62-43-42-125.user.ono.com +rx A[Kyp9 IAA :KaOs
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #amigos 1053460658 SAE:o
+S BURST #melilla 1053460652 SAG,SAE:o
+S BURST #scripting 1053460649 SAG,SAD:o
+S BURST #opers_help 1053460641 +mtn SAC
+S BURST #Debug 1053460639 +smtinRMlk 1 spainchat SAR,SAC,UAB:v,UAA,6AE:o,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAR,SAJ,SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #radio 1053460633 +tn SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #shells 1053460632 +tn SAJ,SAI,SAH,SAE,SAD,SAC
+S BURST #psybnc 1053460632 +tn SAH,SAG,SAE,SAD,SAC
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAR,SAC:o
+S END_OF_BURST
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[Bosque.space])
+:ToLkeN PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='tolken' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='tolken' R]
+:ToLkeN PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='tolken' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 NiCK2 * :Target left:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053521833 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 11 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 0 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 1 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 9 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053521769 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053460626 LeGeN dragon.digitalsec.net +xi DPLMwE SAC :ADMINistrador SpainChat
+S NICK BaLTaZh0r 1 1053460632 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAD :Admin
+S NICK Nach 1 1053460647 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAE :No hay nada malo en desearlo...
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK kDs 1 1053460662 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAG :A veces soy un IDle
+S NICK sasaas 1 1053461346 tecno dragon.digitalsec.net +xi DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+S NICK YeTnEdLaC 1 1053463843 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAR :KaOs
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053521770 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053521770 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053521770 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK CReG 1 1053521805 Pre-Regist 62.22.183.103 +rxowdkg A[Frdn SAZ :Servicio de Pre-Registro de Canales.
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #amigos 1053460658 SAE:o
+S BURST #melilla 1053460652 SAG,SAE:o
+S BURST #scripting 1053460649 SAG,SAD:o
+S BURST #opers_help 1053460641 +mtn SAC
+S BURST #Debug 1053460639 +smtinRMlk 1 spainchat SAR,SAC,UAD:v,UAB,UAA,6AE:o,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAJ,SAI,SAH,SAG,SAE,SAD,SAC,SAZ:o,SAR
+S BURST #radio 1053460633 +tn SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #shells 1053460632 +tn SAJ,SAI,SAH,SAE,SAD,SAC
+S BURST #psybnc 1053460632 +tn SAH,SAG,SAE,SAD,SAC
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAR,SAC:o
+S END_OF_BURST
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[Bosque.space])
+:world.spainchat.net 432 Bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[Bosque.space])
+UAD PART #Debug
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :join #spainchat
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAB :Canal registrado por el cumplimiento de las normas de canales. (Este mensaje debe cambiarse)
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :join #spainchat
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAD :Canal registrado por el cumplimiento de las normas de canales. (Este mensaje debe cambiarse)
+:YeTnEdLaC MODE #spainchat +vv HAD  HAB  
+:devel.space MODE #spainchat -o SAZ  
+:YeTnEdLaC MODE #spainchat +v SAZ  
+:YeTnEdLaC MODE #spainchat -o SAR  
+SAH NICK TeknoLogY 1053522521
+:TeknoLogY AWAY
+SAH NICK TecnoLogY 1053522548
+:TecnoLogY MODE TecnoLogY :+r
+:TecnoLogY MODE TecnoLogY :+owg
+SAH JOIN #Debug
+:TecnoLogY MODE TecnoLogY :-r
+SAH NICK sa 1053522642
+SAH NICK TecnoLogY 1053522646
+:TecnoLogY MODE TecnoLogY :+rha
+:TecnoLogY WHOIS H :VHoST
+:TecnoLogY PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' V]
+SAH CREATE #pruebas 1053522700
+:TecnoLogY MODE #pruebas +nt 
+SAZ JOIN #pruebas
+:CReG MODE #pruebas +xo SAZ  
+:CReG TOPIC #pruebas :Canal OFICIAL
+SAZ PART #pruebas
+SAH PART #pruebas
+SAH JOIN #opers_help
+:TecnoLogY MODE TecnoLogY :+XI
+:TecnoLogY MODE TecnoLogY :+k
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523154 Pre-Regist 62.22.183.103 +rx A[Frdn SAa :Servicio de Pre-Registro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+d
+:CReG MODE CReG :+k
+SAa JOIN #spainchat
+:OPeR MODE #spainchat +o SAa  
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523179 Pre-Regist 62.22.183.103 +rx A[Frdn SAb :Servicio de Pre-Registro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+d
+:CReG MODE CReG :+k
+SAb JOIN #spainchat
+:OPeR MODE #spainchat +o SAb  
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523197 Pre-Regist 62.22.183.103 +rx A[Frdn SAc :Servicio de Pre-Registro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+d
+:CReG MODE CReG :+k
+SAc JOIN #spainchat
+:OPeR MODE #spainchat +o SAc  
+:bots.space SETTIME 1053523264
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523370 Pre-Regist 62.22.183.103 +rx A[Frdn SAd :Servicio de Pre-Registro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+d
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523376 Pre-Regist 62.22.183.103 +rx A[Frdn SAe :Servicio de Pre-Registro de Canales.
+:CReG MODE CReG :+owg
+:CReG QUIT :Local kill by TecnoLogY (orden!)
+S NICK CReG 1 1053523417 - 193-152-196-69.uc.nombres.ttd.es +rx DBmMRF SAf :Servicio de PReregistro de Canales.
+:CReG PRIVMSG HAB :status world.spainchat.net
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+dkI
+:CReG PRIVMSG HAB :status NeWS
+:CReG PRIVMSG HAB :status NiCK
+SAf JOIN #radio
+:CReG PRIVMSG HAA :register #radio SpainChatOFICIAL Canal OFICIAL de SpainChat.
+:CReG PRIVMSG HAA :set #radio topic Canal OFICIAL de SpainChat.
+:CReG PRIVMSG HAA :set #radio email admin@spainchat.net
+SAf PART #radio
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG MODE #radio +xo SAf  ]
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG PRIVMSG HAA :set #radio entrymsg Canal OFICI]
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG PRIVMSG HAA :set #radio url www.spainchat.ne]
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:CReG QUIT :Read error: Connection reset by peer
+S NICK CReG 1 1053523515 - 193-152-196-69.uc.nombres.ttd.es +rx DBmMRF SAg :Servicio de PReregistro de Canales.
+:CReG PRIVMSG HAB :status world.spainchat.net
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+dkI
+:CReG PRIVMSG HAB :status NeWS
+:CReG PRIVMSG HAB :status NiCK
+SAg JOIN #radio
+:CReG PRIVMSG HAA :register #radio SpainChatO Canal OFICIAL de SpainChat.
+:CReG PRIVMSG HAA :set #radio topic Canal OFICIAL de SpainChat.
+:CReG PRIVMSG HAA :set #radio email admin@spainchat.net
+SAg PART #radio
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG MODE #radio +xo SAg  ]
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG PRIVMSG HAA :set #radio entrymsg Canal OFICI]
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:CReG PRIVMSG HAA :set #radio url www.spainchat.ne]
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='creg' REGISTRO_NO_ENCONTRADO
+:CReG QUIT :Read error: Connection reset by peer
+S NICK CReG 1 1053523746 - 193-152-196-69.uc.nombres.ttd.es +rx DBmMRF SAh :Servicio de PReregistro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+dkI
+SAh JOIN #radio
+:CReG MODE #radio +xo SAh  
+SAh PART #radio
+:CHaN TOPIC #radio :Canal OFICIAL de SpainChat.
+:CHaN TOPIC #radio :Bienvenid@s al canal de la radio SpainChat. 6Buscamos gente cualificada en emitir y con ganas de ayudar, interesad@s 12radio@spainchat.net
+SAh JOIN #psybnc
+:CReG MODE #psybnc +xo SAh  
+SAh PART #psybnc
+:CHaN TOPIC #psybnc :Canal COMERCIAL de SpainChat.
+SAh JOIN #shells
+:CReG MODE #shells +xo SAh  
+SAh PART #shells
+:CHaN TOPIC #shells :Canal COMERCIAL de SpainChat.
+SAh JOIN #opers_help
+:CReG MODE #opers_help +xo SAh  
+SAh PART #opers_help
+:CHaN TOPIC #opers_help :Canal OFICIAL de SpainChat.
+SAh JOIN #devel
+:CReG MODE #devel +xo SAh  
+SAh PART #devel
+:CHaN TOPIC #devel :Canal OFICIAL de SpainChat.
+SAh JOIN #Debug
+:CReG MODE #Debug +xo SAh  
+SAh PART #debug
+:CHaN TOPIC #Debug :Canal OFICIAL de SpainChat.
+SAh JOIN #administracion
+:CReG MODE #administracion +xo SAh  
+SAh PART #administracion
+:CHaN TOPIC #administracion :Canal OFICIAL de SpainChat.
+SAH JOIN #administracion
+:OPeR MODE #administracion +o SAH  
+SAh JOIN #spainchat
+:CReG MODE #spainchat +xo SAh  
+SAh PART #spainchat
+:CHaN TOPIC #spainchat :Canal OFICIAL de SpainChat.
+:CHaN MODE #spainchat +o SAH  
+:TecnoLogY TOPIC #spainchat :Bienvenid@s a SpainChat, les recuerdo que tenemos a su disposicion el bot de NiCK2 para poner el flag +r y el VHoST para poner su vhost personalizada y no se olviden de CReG para registrar los canales.
+:CReG QUIT :Desconexión Ordenada.
+:TecnoLogY WHOIS H :VHoST
+:TecnoLogY PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' V]
+S NICK EvS-Dreyk 1 1053524222 fuckable 217.125.1.30 +x DZfQEe SAi :HOBALLA
+:CHaN MODE #psybnc +o SAH  
+:CHaN MODE #shells +o SAH  
+:TecnoLogY TOPIC #psybnc :Canal COMERCIAL de SpainChat - Venta de PsyBNC's - Información preguntar a TecnoLogY
+:EvS-Dreyk QUIT :fractal 1.0.9b60 - RED ALERT! Tagline theft! Raise shields! Arm photons! Lock on phasers! - http://fractalscript.com
+:TecnoLogY TOPIC #shells :Canal COMERCIAL de SpainChat - Venta de Shells - Información preguntar a TecnoLogY
+:CHaN MODE #Debug +o SAH  
+:TecnoLogY TOPIC #Debug :Canal DEBUG de SpainChat.
+:CHaN MODE #opers_help +o SAH  
+:TecnoLogY TOPIC #opers_help :Plantea tu duda a un único 12OPERador 10[14@10] por privado y una vez atendido abandona el canal, gracias. 4NO hables en el canal ;)
+I NICK hack 2 1053524432 Spain 62-43-42-125.user.ono.com +x A[Kyp9 :world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053524462 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 11 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 0 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 4 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 13 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053521769 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053460626 LeGeN dragon.digitalsec.net +xi DPLMwE SAC :ADMINistrador SpainChat
+S NICK BaLTaZh0r 1 1053460632 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAD :Admin
+S NICK Nach 1 1053460647 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAE :No hay nada malo en desearlo...
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK kDs 1 1053460662 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SAG :A veces soy un IDle
+S NICK TecnoLogY 1 1053522646 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+S NICK YeTnEdLaC 1 1053463843 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAR :KaOs
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053521770 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053521770 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053521770 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+I NICK hack 2 1053524432 Spain 62-43-42-125.user.ono.com +x A[Kyp9 IAE :KaOs
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #amigos 1053460658 SAE:o
+S BURST #melilla 1053460652 SAG,SAE:o
+S BURST #scripting 1053460649 SAG,SAD:o
+S BURST #opers_help 1053460641 +mtn SAC,SAH:o
+S BURST #Debug 1053460639 +smtinRMlk 1 spainchat SAR,SAC,UAB:v,UAA,SAH:o,6AE,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAR,SAJ,SAI,SAG,SAE,SAD,SAC,SAH:o
+S BURST #radio 1053460633 +tn SAI,SAH,SAG,SAE,SAD,SAC
+S BURST #shells 1053460632 +tn SAJ,SAI,SAE,SAD,SAC,SAH:o
+S BURST #psybnc 1053460632 +tn SAG,SAE,SAD,SAC,SAH:o
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAR,SAH:o,SAC
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:CHaN NOTICE HAA :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAC :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:NeWS PRIVMSG HAB :[4Noticias de la red - 12May]
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+SAR PART #Debug
+SAR JOIN #Debug
+:OPeR MODE #Debug +o SAR  
+:YeTnEdLaC MODE #Debug +ooo UAA  UAB  SAC  
+:hack PRIVMSG HAD :help
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='hack' REG]
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='hack' REGISTRO_NO_ENCONTRADO
+:hack PRIVMSG HAD :register
+:hack PRIVMSG HAD :register yet14621
+:world.spainchat.net 412 CaLC :No text to send
+:hack PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='hack' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='hack' REG]
+:hack PRIVMSG HAB :vhost hack
+IAE NICK al 1053524525
+IAE NICK hack 1053524528
+:hack MODE hack :+r
+:hack QUIT :..
+S NICK CReG 1 1053524629 - 207.44.206.190 +rx DPLM6[ SAj :Servicio de PReregistro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+dkI
+:TecnoLogY MODE #Debug -n 
+:CHaN MODE #Debug +n 
+:TecnoLogY MODE #Debug -n 
+:CHaN MODE #Debug +n 
+SAj JOIN #spainchat
+:CHaN MODE #spainchat +o SAj  
+:TecnoLogY MODE #spainchat -o SAH  
+:bots.space MODE #spainchat -o SAj  
+:world.spainchat.net SQUIT devel.space 1053521769 :Server devel.space closed the connection (<>)
+:CReG QUIT :Read error: EOF from client
+S NICK CReG 1 1053524807 - 207.44.206.190 +rx DPLM6[ SAk :Servicio de PReregistro de Canales.
+:CReG MODE CReG :+owg
+:CReG MODE CReG :+dkI
+:YeTnEdLaC WHOIS H :NiCK2
+S SERVER devel.space 2 0 1053525103 J10 UP] 0 :Servicios de Operadores
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+UAA JOIN #Debug
+UAB JOIN #Debug
+UAD JOIN #Debug
+:devel.space MODE #Debug +v UAA  
+:devel.space MODE #Debug +v UAB  
+:devel.space MODE #Debug +v UAD  
+:devel.space MODE #Debug +v UAA  
+:devel.space MODE #Debug +v UAB  
+:devel.space MODE #Debug +v UAD  
+:devel.space MODE #Debug +v UAB  
+U END_OF_BURST
+U EOB_ACK
+:YeTnEdLaC MODE #Debug +ooo UAA  UAB  UAD  
+SAH PART #opers_help
+:YeTnEdLaC WHOIS H :SuX
+:YeTnEdLaC PRIVMSG HAA :help
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:YeTnEdLaC PRIVMSG HAA :clones 3
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:TecnoLogY WHOIS H :SuX
+:TecnoLogY PRIVMSG HAA :help
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='tecnology' V]
+SAH PART #spainchat
+SAH JOIN #spainchat
+:OPeR MODE #spainchat +o SAH  
+:TecnoLogY MODE #spainchat -o SAH  
+S NICK Tresde 1 1053525130 somnisoft 80-28-158-104.adsl.nuria.telefonica-data.net +x BQHJ5o SAl :www.somnisoft.cjb.net
+SAk JOIN #spainchat
+:CHaN MODE #spainchat +o SAk  
+SAH CREATE #wireless 1053525239
+:TecnoLogY MODE #wireless +nt 
+:devel.space MODE #spainchat -o SAk  
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :join #spainchat
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :join #spainchat
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+SAR PART #spainchat
+SAR JOIN #spainchat
+:OPeR MODE #spainchat +o SAR  
+SAl NICK D 1053525268
+:YeTnEdLaC MODE #spainchat +ooo SAk  HAD  HAB  
+SAl NICK Tresde 1053525276
+:devel.space MODE #spainchat -o SAk  
+:devel.space MODE #spainchat -o HAB  
+SAH PART #wireless
+:devel.space MODE #spainchat -o HAD  
+:YeTnEdLaC MODE #spainchat +vvv SAk  HAD  HAB  
+:YeTnEdLaC AWAY :Currando
+:TecnoLogY AWAY :Fuera de servicio...
+:YeTnEdLaC MODE YeTnEdLaC :-o
+:YeTnEdLaC MODE #spainchat -o SAR  
+SAl NICK s 1053525340
+SAl NICK Tresde 1053525342
+SAl JOIN #spainchat
+SAl CREATE #wireless 1053525358
+S NICK Phantom 1 1053530743 Tienda 236.Red-81-33-120.pooles.rima-tde.net +x BRIXjs SAm :Impacta Computers C:\ Ciutat 55 (Artà) Mallorca
+:Phantom MODE Phantom :+i
+SAm JOIN #spainchat
+:Phantom QUIT :[ www.unifik2.com ]-[ Script-Unifik2 ]
+I NICK Phantom 2 1053530812 Tienda 236.Red-81-33-120.pooles.rima-tde.net +x BRIXjs IAF :Impacta Computers C:\ Ciutat 55 (Artà) Mallorca
+:Phantom MODE Phantom :+i
+IAF JOIN #spainchat
+:Phantom MODE Phantom :+owg
+IAF JOIN #opers_help
+:Phantom QUIT :Read error: Connection reset by peer
+:Tresde QUIT :2[ SomniSoft Script ] :: [ www.somnisoft.cjb.net ]
+I NICK Phantom 2 1053533178 Tienda 14.Red-81-32-46.pooles.rima-tde.net +x BRIC4O IAG :Impacta Computers C:\ Ciutat 55 (Artà) Mallorca
+:Phantom MODE Phantom :+i
+IAG JOIN #opers_help,#spainchat
+:Drazix AWAY
+:Phantom MODE Phantom :+owg
+SAC NICK az 1053533531
+SAC NICK Drazix 1053533536
+:Drazix PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='drazix' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='drazix' R]
+SAC PART #psybnc,#shells,#radio,#spainchat,#administracion,#Debug,#opers_help
+UAD PART #Debug
+:Drazix PRIVMSG HAD :register camaleon
+:world.spainchat.net 412 CaLC :No text to send
+SAC NICK az 1053533673
+SAC NICK Drazix 1053533678
+:Drazix MODE Drazix :+r
+SAC JOIN #spainchat
+SAC JOIN #shells
+SAC JOIN #psybnc
+:BaLTaZh0r QUIT :Read error: Connection reset by peer
+SAC JOIN #Bots
+SAC PART #Bots
+:kDs QUIT :Read error: Connection reset by peer
+:Nach QUIT :Ping timeout
+S NICK DRaZiX_69 1 1053533940 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 SAn :7,1ThE aNGeL oF DaRkNeSs
+:DRaZiX_69 MODE DRaZiX_69 :+i
+SAn NICK azoe[X] 1053533949
+SAn JOIN #spainchat
+I NICK |nFieRNo 2 1053533966 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 IAH :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+IAH CREATE #az 1053534001
+IAH PART #az
+:|nFieRNo PRIVMSG HAD :register FRaN69
+:world.spainchat.net 412 CaLC :No text to send
+IAH NICK AZ 1053534023
+IAH NICK |nFieRNo 1053534029
+:|nFieRNo MODE |nFieRNo :+r
+IAH JOIN #spainchat
+:|nFieRNo PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno']
+IAH CREATE #az 1053534088
+:|nFieRNo QUIT :Quitadle a mimosín las toallas cuando salte del armario !!! XDD
+I NICK |nFieRNo 2 1053534097 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 IAI :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+IAI JOIN #spainchat
+:|nFieRNo PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno']
+:|nFieRNo PRIVMSG HAB :me.gustan.los.xoxos.rapaitos.com
+SAn PART #spainchat
+:|nFieRNo MODE |nFieRNo :-r
+IAI NICK aze 1053534166
+IAI NICK |nFieRNo 1053534169
+:|nFieRNo MODE |nFieRNo :+r
+:|nFieRNo PRIVMSG HAB :|nFieRNo
+IAI PART #spainchat
+:|nFieRNo QUIT :Quitadle a mimosín las toallas cuando salte del armario !!! XDD
+I NICK |nFieRNo 2 1053534253 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 IAJ :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+:|nFieRNo PRIVMSG HAB :|nFieRNo
+:|nFieRNo MODE |nFieRNo :-r
+IAJ NICK az 1053534279
+IAJ NICK |nFieRNo 1053534290
+:|nFieRNo MODE |nFieRNo :+r
+:|nFieRNo PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='|nfierno']
+:|nFieRNo PRIVMSG HAB :delhost
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR No tienes permiso para acc]
+:|nFieRNo PRIVMSG HAB :vhost ThE-PaRaSiTe.
+:|nFieRNo MODE |nFieRNo :-r
+IAJ NICK az 1053534371
+IAJ NICK |nFieRNo 1053534376
+:|nFieRNo MODE |nFieRNo :+r
+IAJ JOIN #spainchat
+SAn JOIN #spainchat
+S NICK drasik 1 1053534471 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 SAo :7,1ThE aNGeL oF DaRkNeSs
+:drasik MODE drasik :+i
+SAo NICK PiVa 1053534497
+:azoe[X] PRIVMSG HAD :register FRaN69
+:world.spainchat.net 412 CaLC :No text to send
+SAn NICK A 1053534525
+SAn NICK azoe[X] 1053534533
+:azoe[X] MODE azoe[X] :+r
+:azoe[X] PRIVMSG HAB :MaRiHuaNa
+:azoe[X] MODE azoe[X] :-r
+SAn NICK AZ 1053534558
+:AZ PRIVMSG HAB :MaRiHuaNa
+:AZ PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='az' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='az' REGIS]
+SAn NICK azoe[X] 1053534606
+:azoe[X] MODE azoe[X] :+r
+:azoe[X] PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='azoe{x}' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='azoe{x}' ]
+:azoe[X] PRIVMSG HAB :MaRiHuaNa
+:|nFieRNo QUIT :Ping timeout
+SAo NICK Tq_Drazix 1053534682
+SAo NICK Tq-Drazix 1053534689
+I NICK |nFieRNo 2 1053534702 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 IAK :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+IAK JOIN #spainchat
+SAo JOIN #spainchat
+SAo PART #spainchat
+:Tq-Drazix PRIVMSG HAD :register camaleon
+:world.spainchat.net 412 CaLC :No text to send
+SAo NICK az 1053534803
+SAo NICK Tq-Drazix 1053534806
+:Tq-Drazix MODE Tq-Drazix :+r
+:Tq-Drazix PRIVMSG HAB :tq-Drazix
+:Tq-Drazix PRIVMSG HAB :help
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='tq-drazix]
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='tq-drazix' REGISTRO_NO_ENCONTRADO
+:Tq-Drazix PRIVMSG HAB :info
+:Tq-Drazix PRIVMSG HAB :info |nfierno
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='v' Clave='|nfierno' Va]
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='v' Clave='|nfierno' Valor='ThE-PaRaSiTe..spainchat.vip'
+:Tq-Drazix PRIVMSG HAB :info tq-drazix
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='v' Clave='tq-drazix' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='v' Clave='tq-drazix]
+:Tq-Drazix PRIVMSG HAB :delhost
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR No tienes permiso para acc]
+:Tq-Drazix PRIVMSG HAB :TQ.Drazix
+:Tq-Drazix MODE Tq-Drazix :-r
+SAo NICK a 1053534904
+SAo NICK TQ-Drzaix 1053534914
+SAo NICK Tq-Drazix 1053534941
+:Tq-Drazix MODE Tq-Drazix :+r
+:Tq-Drazix PRIVMSG HAB :vhost TQM.Drazix
+:Tq-Drazix MODE Tq-Drazix :-r
+SAo NICK az 1053534986
+SAo NICK Tq-Drazix 1053535009
+:Tq-Drazix MODE Tq-Drazix :+r
+SAo JOIN #spainchat
+SAn PART #spainchat
+:azoe[X] PRIVMSG HAB :vhost Me-gustan-los-xoxos-rapaitos
+:azoe[X] MODE azoe[X] :-r
+SAn NICK az 1053535100
+SAn NICK azoe[X] 1053535107
+:azoe[X] MODE azoe[X] :+r
+SAn JOIN #spainchat
+:|nFieRNo QUIT :Ping timeout
+S NICK |nFieRNo 1 1053535479 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SAp :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+SAp JOIN #spainchat
+:TecnoLogY MODE TecnoLogY :-rha
+SAH NICK kdskds 1053536101
+:kdskds AWAY
+SAH NICK TecnoLogY 1053536121
+:TecnoLogY MODE TecnoLogY :+rha
+:TecnoLogY MODE #Debug -RM 
+S NICK SeVeN 1 1053536278 Camicace 213-98-227-178.uc.nombres.ttd.es +x DVYuOy SAq :Pedro Picapiedra
+SAq JOIN #ayuda_irc
+SAq CREATE #peñajoven,#españaa,#morreo,#la_manga,#peña_joven,#real_madrid,#ct,#20_25_30años,#ayuda_internet 1053536285
+SAq PART #ayuda_irc
+SAq PART #ayuda_internet
+SAq PART #20_25_30años
+SAq PART #ct
+SAq PART #real_madrid
+SAq PART #peña_joven
+SAq PART #la_manga
+:Drazix MODE Drazix :-r
+SAC NICK az 1053536315
+SAq PART #morreo
+SAq PART #españaa
+SAq PART #peñajoven
+SAq JOIN #spainchat
+SAC NICK Drazix 1053536338
+:Drazix MODE Drazix :+rha
+SAq JOIN #opers_help
+SAq PART #opers_help
+SAq JOIN #Bots
+SAq PART #Bots
+SAq JOIN #shells
+I NICK drummy 2 1053536452 drummy 56.Red-81-42-72.pooles.rima-tde.net +x BRKkg4 IAM :IRcap[7.5] 4• www.ircap.net
+:drummy MODE drummy :+i
+IAM JOIN #spainchat
+:drummy AWAY :fabricando comida para gallinas en el WC
+IAM CREATE #WaRNeRSeX 1053536532
+:drummy MODE #WaRNeRSeX +nt 
+:azoe[X] QUIT :Quitadle a mimosín las toallas cuando salte del armario !!! XDD
+:Tq-Drazix QUIT :Quitadle a mimosín las toallas cuando salte del armario !!! XDD
+:Drazix AWAY
+:|nFieRNo QUIT :Read error: Connection reset by peer
+S NICK BaSaTiA 1 1053536765 tuputamadr 170.Red-81-42-64.pooles.rima-tde.net +x BRKkCq SAr :Txejo
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+SAr JOIN #WaRNeRSeX
+SAs JOIN #spainchat
+S NICK azoe[X] 1 1053536781 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SAt :7,1ThE aNGeL oF DaRkNeSs
+:Drazix MODE Drazix :-rha
+SAC NICK az 1053536807
+SAC NICK Drazix 1053536809
+:Drazix MODE Drazix :+rha
+:drummy AWAY :[5mins] fabricando comida para gallinas en el WC
+:BaSaTiA QUIT :
+SAC JOIN #Debug
+:OPeR MODE #Debug +o SAC  
+SAt JOIN #spainchat
+:CReG QUIT :Desconexión Ordenada.
+I NICK Tq-Drazix 2 1053536928 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 IAN :7,1ThE aNGeL oF DaRkNeSs
+:Tq-Drazix MODE Tq-Drazix :+i
+IAN JOIN #spainchat
+S NICK CReG 1 1053536948 - 207.44.206.190 +rx DPLM6[ SAu :Servicio de PReregistro de Canales.
+:CReG MODE CReG :+owg
+SAu JOIN #Debug
+:CHaN MODE #Debug +o SAu  
+:SeVeN QUIT :
+SAu JOIN #spainchat
+:CHaN MODE #spainchat +o SAu  
+:CReG MODE #spainchat +v-o SAu  SAu  
+:CReG MODE CReG :+dkI
+:azoe[X] QUIT :Ping timeout
+:Drazix MODE Drazix :-rha
+SAC NICK a 1053537051
+SAC NICK Drazix 1053537055
+:Drazix MODE Drazix :+rha
+:drummy AWAY
+SAH JOIN #opers_help
+:OPeR MODE #opers_help +o SAH  
+S NICK aj1`3 1 1053537170 YaKyLLaN 80-24-246-176.uc.nombres.ttd.es +x BQGPaw SAv :Dios no existe, no me refiero a Jesus.
+:aj1`3 MODE aj1`3 :+i
+SAv CREATE #a_muerte,#elinfornauta,#makaflays,#MeLiLLa,#MonstruosI.R.C,#S.O.S,#SCRiPTiNG 1053537177
+SAv PART #a_muerte,#elinfornauta,#makaflays,#MeLiLLa,#MonstruosI.R.C,#S.O.S,#SCRiPTiNG
+SAv JOIN #spainchat
+IAM NICK aaa 1053537334
+IAM NICK drummy 1053537335
+IAM NICK aaa 1053537447
+IAM NICK drummy 1053537452
+:drummy PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='drummy' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='drummy' R]
+:drummy PRIVMSG HAD :register
+:Phantom PRIVMSG HAD :help
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='phantom' ]
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='phantom' REGISTRO_NO_ENCONTRADO
+:drummy PRIVMSG HAD :register dp-8rc
+:world.spainchat.net 412 CaLC :No text to send
+:Phantom PRIVMSG HAD :REGISTER 
+SAH JOIN #Bots
+:Phantom PRIVMSG HAD :REGISTER impacta2
+:world.spainchat.net 412 CaLC :No text to send
+SAH PART #Bots
+IAG NICK asda 1053537569
+S NICK azoe[X] 1 1053537553 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SAw :7,1ThE aNGeL oF DaRkNeSs
+IAM NICK aaa 1053537571
+IAG NICK Phantom 1053537571
+:Phantom MODE Phantom :+r
+:Phantom PRIVMSG HAD :ia esta
+IAM NICK drummy 1053537577
+:drummy MODE drummy :+r
+:azoe[X] QUIT :Quitadle a mimosín las toallas cuando salte del armario !!! XDD
+S NICK AZE 1 1053537598 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+:AZE MODE AZE :+i
+SAx NICK azoe[X] 1053537625
+:azoe[X] MODE azoe[X] :+r
+SAx JOIN #spainchat
+:Phantom MODE Phantom :-r
+IAG NICK PoWaH 1053537655
+IAG NICK Phantom 1053537844
+:Phantom MODE Phantom :+rh
+IAG JOIN #administracion
+:OPeR MODE #administracion +o IAG  
+IAG JOIN #Debug
+:OPeR MODE #Debug +o IAG  
+:Tq-Drazix QUIT :Ping timeout
+:TecnoLogY MODE #opers_help +o IAG  
+:TecnoLogY MODE #opers_help -oo IAG  SAH  
+:YeTnEdLaC QUIT :Ping timeout
+:drummy QUIT :Ping timeout
+I NICK aaa 2 1053538253 drummy 56.Red-81-42-72.pooles.rima-tde.net +x BRKkg4 IAO :IRcap[7.5] 4• www.ircap.com
+:aaa MODE aaa :+i
+:world.spainchat.net SQUIT world.spainchat.net 0 :Ping timeout
+:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053542830 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 18 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 22 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK TecnoLogY 1 1053536121 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+S NICK aj1`3 1 1053537170 YaKyLLaN 80-24-246-176.uc.nombres.ttd.es +xi BQGPaw SAv :Dios no existe, no me refiero a Jesus.
+S NICK azoe[X] 1 1053537625 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+S NICK YeTnEdLaC 1 1053542794 Spain 62.22.183.103 +rhxaci A[Frdn SAy :KaOs
+I NICK Tq-Drazix 2 1053538356 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 IAP :7,1ThE aNGeL oF DaRkNeSs
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #opers_help 1053460641 +mtn SAH
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,SAy:o,SAu,SAC,SAH,6AE,6AB,6AA
+S BURST #spainchat 1053460635 +tn IAP,SAy,SAx,SAv,SAs,SAC,SAH,SAJ,SAI,SAu:v
+S BURST #radio 1053460633 +tn SAI,SAH
+S BURST #shells 1053460632 +tn SAC,SAJ,SAI,SAH:o
+S BURST #psybnc 1053460632 +tn SAC,SAH:o
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAH:o
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053543086 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 18 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 23 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK TecnoLogY 1 1053536121 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+S NICK aj1`3 1 1053537170 YaKyLLaN 80-24-246-176.uc.nombres.ttd.es +xi BQGPaw SAv :Dios no existe, no me refiero a Jesus.
+S NICK azoe[X] 1 1053537625 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+S NICK YeTnEdLaC 1 1053542794 Spain 62.22.183.103 +rhxaci A[Frdn SAy :KaOs
+I NICK Tq-Drazix 2 1053538356 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 IAP :7,1ThE aNGeL oF DaRkNeSs
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #opers_help 1053460641 +mtn SAH
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,SAy:o,SAu,SAC,SAH,6AE,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAy,IAP,SAx,SAv,SAs,SAC,SAH,SAJ,SAI,SAu:v
+S BURST #radio 1053460633 +tn SAI,SAH
+S BURST #shells 1053460632 +tn SAC,SAJ,SAI,SAH:o
+S BURST #psybnc 1053460632 +tn SAC,SAH:o
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAH:o
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053543096 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 18 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 23 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK TecnoLogY 1 1053536121 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+S NICK aj1`3 1 1053537170 YaKyLLaN 80-24-246-176.uc.nombres.ttd.es +xi BQGPaw SAv :Dios no existe, no me refiero a Jesus.
+S NICK azoe[X] 1 1053537625 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+S NICK YeTnEdLaC 1 1053542794 Spain 62.22.183.103 +rhxaci A[Frdn SAy :KaOs
+I NICK Tq-Drazix 2 1053538356 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 IAP :7,1ThE aNGeL oF DaRkNeSs
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #opers_help 1053460641 +mtn SAH
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,SAy:o,SAu,SAC,SAH,6AE,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAy,IAP,SAx,SAv,SAs,SAC,SAH,SAJ,SAI,SAu:v
+S BURST #radio 1053460633 +tn SAI,SAH
+S BURST #shells 1053460632 +tn SAC,SAJ,SAI,SAH:o
+S BURST #psybnc 1053460632 +tn SAC,SAH:o
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAH:o
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:CHaN NOTICE HAA :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAC :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:NeWS PRIVMSG HAB :[4Noticias de la red - 12May]
+:YeTnEdLaC WHOIS H :VHoST
+:TecnoLogY PRIVMSG HAA :help
+:impacta.spainchat.net NOTICE HAA :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [S NOTICE HAA :DBQ OK Tabla='o' Clave='tecnology' V]
+:YeTnEdLaC PRIVMSG HAB :join #spainchat
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :join #spainchat
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+:TecnoLogY WHOIS H :NiCK2
+:TecnoLogY PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='tecnology' V]
+:YeTnEdLaC MODE #spainchat +xv HAD  
+:YeTnEdLaC MODE #spainchat +xv HAB  
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :help register
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:YeTnEdLaC PRIVMSG HAD :help setpass
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:YeTnEdLaC PRIVMSG HAB :help vhost
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:aj1`3 QUIT :4,12Levantar al que ha caído es algo, sostenerlo para que no vuelva a caer es más... 2gracias aMeRiKaNa.......
+S NICK aj1`3 1 1053543462 YaKyLLaN 80-24-246-176.uc.nombres.ttd.es +x BQGPaw SA2 :Dios no existe, no me refiero a Jesus.
+:aj1`3 MODE aj1`3 :+i
+SA2 CREATE #a_muerte,#elinfornauta,#makaflays,#MeLiLLa,#MonstruosI.R.C,#S.O.S,#SCRiPTiNG 1053543467
+:aj1`3 QUIT :Read error: Connection reset by peer
+S NICK kdskds 1 1053543494 tecno 217-125-224-195.uc.nombres.ttd.es +x DZfeDD SA3 :[ TecnoLogY 4™ ] 
+:kdskds MODE kdskds :+iw
+SA3 NICK TeknoLogY 1053543506
+:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053543641 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 19 2
+S DB * 0 J 0 a
+S DB * 0 J 1 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 23 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER bots.space 2 0 1053464414 P09 6A] 0 :Servicios de SpainChat
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK TecnoLogY 1 1053543526 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+6 NICK NiCK 2 1053464414 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053464414 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053464414 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053464414 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053464414 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053464414 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053464414 - - +ok AAAAAA 6AG :Servicio de noticias
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+S NICK azoe[X] 1 1053537625 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+S NICK YeTnEdLaC 1 1053542794 Spain 62.22.183.103 +rhxaci A[Frdn SAy :KaOs
+I NICK Tq-Drazix 2 1053538356 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 IAP :7,1ThE aNGeL oF DaRkNeSs
+I NICK russty 2 1053543512 Spain 62-43-42-125.user.ono.com +rx A[Kyp9 IAR :KaOs
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Bots 1270080000 6AD:o,6AC,6AB,6AA
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH
+S BURST #opers_help 1053460641 +mtn SAH
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,SAy:o,SAu,SAC,SAH,6AE,6AB,6AA
+S BURST #spainchat 1053460635 +tn SAy,IAP,SAx,SAs,SAC,SAH,SAJ,SAI,SAu:v
+S BURST #radio 1053460633 +tn SAI,SAH
+S BURST #shells 1053460632 +tn SAC,SAJ,SAI,SAH:o
+S BURST #psybnc 1053460632 +tn SAC,SAH:o
+S BURST #administracion 1053460629 +stinRMlk 1 spainchat SAH:o
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:CHaN NOTICE HAA :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAC :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:NeWS PRIVMSG HAB :[4Noticias de la red - 12May]
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :help
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :join #spainchat
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:YeTnEdLaC PRIVMSG HAD :join #spainchat
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+SAH PART #administracion
+S NICK TeknoLogY 1 1053543755 tecno 217-125-224-195.uc.nombres.ttd.es +x DZfeDD SA4 :[ TecnoLogY 4™ ] 
+:TeknoLogY MODE TeknoLogY :+iw
+:russty QUIT :..
+:TeknoLogY PRIVMSG HAD :register spainchat
+:world.spainchat.net 412 CaLC :No text to send
+SA4 NICK as 1053543813
+SA4 NICK TeknoLogY 1053543816
+:TeknoLogY MODE TeknoLogY :+r
+:TeknoLogY PRIVMSG HAB :help
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology]
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology' REGISTRO_NO_ENCONTRADO
+SA4 JOIN #spainchat
+:TeknoLogY WHOIS H :VHoST
+:TeknoLogY PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology]
+:TeknoLogY PRIVMSG HAB :vhost
+:TeknoLogY PRIVMSG HAB :vhost TeknoLogY
+:TeknoLogY MODE TeknoLogY :-r
+SA4 NICK sasa 1053543967
+SA4 NICK TeknoLogY 1053543974
+:TeknoLogY MODE TeknoLogY :+r
+SA4 PART #spainchat
+SA4 JOIN #spainchat
+:TeknoLogY PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ ERROR Tabla='o' Clave='teknology]
+:YeTnEdLaC MODE YeTnEdLaC :-rhac
+SAy NICK al 1053544050
+SAy NICK YeTnEdLaC 1053544062
+:YeTnEdLaC MODE YeTnEdLaC :+rhac
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :help
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+S NICK BaLTaZh0r 1 1053544128 Admin 27.Red-80-33-98.pooles.rima-tde.net +x BQIWIb SA5 :Admin
+SA5 JOIN #psybnc
+SA5 JOIN #shells
+SA5 JOIN #spainchat
+SA5 CREATE #scripting 1053544143
+SA5 JOIN #radio
+:BaLTaZh0r MODE BaLTaZh0r :+i
+SAy CREATE #administracion 1053544148
+:CHaN MODE #administracion +sntilk 1 spainchat 
+:CHaN TOPIC #administracion :Canal OFICIAL de SpainChat.
+S NICK Nach 1 1053544143 Nach 27.Red-80-33-98.pooles.rima-tde.net +x BQIWIb SA6 :No hay nada malo en desearlo...
+SA6 JOIN #radio
+SA6 JOIN #spainchat
+SA6 JOIN #shells
+SA6 CREATE #amigos 1053544151
+SA6 JOIN #psybnc
+SA6 CREATE #melilla 1053544155
+:Nach MODE Nach :+i
+:YeTnEdLaC MODE YeTnEdLaC :+owg
+:YeTnEdLaC DBQ * b NickServ
+S NICK kDs 1 1053544189 ngs 27.Red-80-33-98.pooles.rima-tde.net +x BQIWIb SA7 :A veces soy un IDle
+SA7 JOIN #radio
+SA7 JOIN #spainchat
+SA7 JOIN #scripting
+SA7 JOIN #melilla
+SA7 JOIN #psybnc
+:YeTnEdLaC DBQ * b ChanServ
+:kDs MODE kDs :+i
+I NICK aaa 2 1053544326 drummy 212.Red-81-42-73.pooles.rima-tde.net +x BRKknU IAS :IRcap[7.5] 4• www.ircap.com
+:aaa MODE aaa :+i
+IAS NICK drummy 1053544337
+:drummy MODE drummy :+r
+:YeTnEdLaC MODE YeTnEdLaC :-rhac
+SAy NICK al 1053544339
+SAy NICK YeTnEdLaC 1053544349
+:YeTnEdLaC MODE YeTnEdLaC :+rhac
+:world.spainchat.net SQUIT world.spainchat.net 0 :Ping timeout
+:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053544689 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 20 2
+S DB * 0 J 0 a
+S DB * 0 J 2 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 24 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER impacta.spainchat.net 2 0 1053519496 P10 ID] 0 :Servidor IRC de Impacta Computer
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S SERVER bots.space 2 0 1053544643 P09 6A] 0 :Servicios de SpainChat
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK TecnoLogY 1 1053543526 tecno dragon.digitalsec.net +rhxXaIoiwkg DPLMwE SAH :ADMINistrador SpainChat
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+I NICK ImpactaComputer 2 1053520916 Tienda 62.22.183.103 +xi A[Frdn IAB :Tienda
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK |nFieRNo 1 1053536760 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAs :7,1ThE aNGeL oF DaRkNeSs
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+S NICK azoe[X] 1 1053537625 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 SAx :7,1ThE aNGeL oF DaRkNeSs
+S NICK YeTnEdLaC 1 1053544489 Spain 62.22.183.103 +rhxacoiwg A[Frdn SAy :KaOs
+S NICK TeknoLogY 1 1053544486 tecno 217-125-224-195.uc.nombres.ttd.es +rxiw DZfeDD SA4 :[ TecnoLogY 4™ ] 
+S NICK BaLTaZh0r 1 1053544128 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SA5 :Admin
+S NICK Nach 1 1053544143 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SA6 :No hay nada malo en desearlo...
+S NICK kDs 1 1053544189 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SA7 :A veces soy un IDle
+I NICK aaa 2 1053544449 drummy 212.Red-81-42-73.pooles.rima-tde.net +xi BRKknU IAU :IRcap[7.5] 4• www.ircap.com
+I NICK Tq-Drazix 2 1053544514 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rxi BQGPY0 IAV :7,1ThE aNGeL oF DaRkNeSs
+6 NICK NiCK 2 1053544643 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053544643 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053544643 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053544643 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053544643 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053544643 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053544643 - - +ok AAAAAA 6AG :Servicio de noticias
+S BURST #melilla 1053544155 SA7,SA6:o
+S BURST #amigos 1053544151 SA6:o
+S BURST #administracion 1053544148 +stinlk 1 spainchat 6AB:o,SAH,SAy
+S BURST #scripting 1053544143 SA7,SA5:o
+S BURST #Manacor 1053520922 IAB:o
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM SAH,6AB:o
+S BURST #opers_help 1053460641 +mtn 6AC:v,6AB:o,SAH
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,6AE:o,6AD,6AC,6AB,6AA,SAy,SAu,SAC,SAH
+S BURST #spainchat 1053460635 +tn IAV,IAU,SA7,SA6,SA5,SA4,SAx,SAs,SAC,SAJ,SAI,SAu:ov,6AC:v,6AB:o,SAy,SAH
+S BURST #radio 1053460633 +tn SA7,SA6,SA5,SAI,6AB:o,SAH
+S BURST #shells 1053460632 +tn SA6,SA5,SAC,SAJ,SAI,SAH:o
+S BURST #psybnc 1053460632 +tn SA7,SA6,SA5,SAC,SAH:o
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:CHaN NOTICE HAA :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAC :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:bots.space MODE #spainchat -o SAu  
+:impacta.spainchat.net NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:NeWS PRIVMSG HAB :[4Noticias de la red - 12May]
+:TecnoLogY MODE #spainchat -oo SAH  SAy  
+:TecnoLogY MODE #opers_help -o SAH  
+:TeknoLogY QUIT :[ TecnoLogY 4™ ] 
+:TecnoLogY WHOIS H :VHoST
+:TecnoLogY PRIVMSG HAB :join #spainchat
+:impacta.spainchat.net NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='tecnology' V]
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:TecnoLogY WHOIS H :NiCK2
+:TecnoLogY PRIVMSG HAD :join #spainchat
+:impacta.spainchat.net NOTICE HAD :DBQ OK Tabla='o' Clave='tecnology' Valor='10'
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='tecnology' V]
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+:YeTnEdLaC DBQ * o yetnedlac
+6AC PART #spainchat
+SAy PART #spainchat
+SAy JOIN #spainchat
+:OPeR MODE #spainchat +o SAy  
+:YeTnEdLaC MODE #spainchat +vv HAD  HAB  
+SAH CREATE #linux 1053545122
+:CHaN MODE #linux +nt 
+:CHaN TOPIC #linux :
+SAH PART #linux
+SAC CREATE #az 1053545547
+SAC PART #az
+:Drazix AWAY :www.spainchat.net
+:CHaN TOPIC #devel :Canal Desarrollo - Mantenimiento de SpainChat » 6http://devel.spainchat.net · Dudas / Ideas / Sugerencias » 6devel@spainchat.net
+:CHaN TOPIC #administracion :Canal de OPERadores & ADMINistradores de SpainChat.
+I NICK PoWaH 2 1053546015 Anonymous 39.Red-80-39-228.pooles.rima-tde.net +x BQJ[Qn IAW :Anonymous
+:PoWaH MODE PoWaH :+i
+IAW NICK Phantom 1053546022
+:Phantom MODE Phantom :+rh
+:Phantom MODE Phantom :+owg
+IAW JOIN #opers_help
+:OPeR MODE #opers_help +o IAW  
+:Phantom MODE #opers_help -o IAW  
+IAW JOIN #spainchat
+:OPeR MODE #spainchat +o IAW  
+:Phantom MODE #spainchat -o IAW  
+:YeTnEdLaC MODE YeTnEdLaC :-o
+:Drazix AWAY
+SAC JOIN #administracion
+:OPeR MODE #administracion +o SAC  
+:Drazix AWAY :www.spainchat.net
+:Drazix AWAY
+:Drazix AWAY :www.spainchat.net
+SAC CREATE #az 1053546435
+IAU NICK drummy 1053546527
+:drummy MODE drummy :+r
+:TecnoLogY AWAY :Fuera de servicio...
+S NICK kdskds 1 1053546718 tecno 217-125-224-195.uc.nombres.ttd.es +x DZfeDD SA8 :[ TecnoLogY 4™ ] 
+:kdskds MODE kdskds :+iw
+SA8 JOIN #radio,#psybnc,#shells
+SA8 JOIN #spainchat,#opers_help
+:kdskds QUIT :Read error: EOF from client
+:TecnoLogY AWAY
+:drummy MODE drummy :-r
+IAU NICK aaa 1053546847
+IAU NICK drummy 1053546850
+:drummy MODE drummy :+r
+6AC PART #opers_help
+:Phantom MODE Phantom :+k
+:Phantom MODE Phantom :+d
+:Phantom MODE Phantom :-g
+:Phantom MODE Ph:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053582433 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 20 2
+S DB * 0 J 0 a
+S DB * 0 J 3 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 24 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S SERVER bots.space 2 0 1053544643 P09 6A] 0 :Servicios de SpainChat
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+6 NICK NiCK 2 1053544643 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053544643 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053544643 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053544643 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053544643 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053544643 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053544643 - - +ok AAAAAA 6AG :Servicio de noticias
+S NICK YeTnEdLaC 1 1053551069 Spain 62.22.183.103 +rhxaci A[Frdn SBA :KaOs
+S NICK kDs 1 1053560390 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBD :A veces soy un IDle
+S NICK BaLTaZh0r 1 1053560435 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBE :Admin
+S NICK Nach 1 1053560465 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBF :No hay nada malo en desearlo...
+S NICK WaRCry 1 1053562976 h34vY 85.Red-80-35-190.pooles.rima-tde.net +xi BQI75V SBG :mirate
+S BURST #chatmania 1053562986 SBG:o
+S BURST #MeTaL 1053562984 SBG:o
+S BURST #TierraDeNadie 1053562982 SBG:o
+S BURST #amigos 1053560474 SBF:o
+S BURST #melilla 1053560399 SBF,SBD:o
+S BURST #scripting 1053560397 SBE,SBD:o
+S BURST #administracion 1053544148 +stinlk 1 spainchat SBA:o,SAC,6AB
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM 6AB:o
+S BURST #opers_help 1053460641 +mtn UAD,6AB:o
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,SBA:o,6AE,6AD,6AC,6AB,6AA,SAu,SAC
+S BURST #spainchat 1053460635 +tn SBF,SBE,SBD,SAC,SAJ,SAI,SAu:v,SBA:o,6AB
+S BURST #radio 1053460633 +tn SBF,SBE,SBD,SAI,6AB:o
+S BURST #shells 1053460632 +tn SBF,SBE,SAC,SAJ,SAI
+S BURST #psybnc 1053460632 +tn SBF,SBE,SBD,SAC
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal d:world.spainchat.net CONFIG REQ :zlib
+:world.spainchat.net PASS :devel
+:world.spainchat.net SERVER world.spainchat.net 1 1053459810 1053609495 J10 SD] :Servidor IRC SpainChat [HUB]
+S DB * 0 J 20 2
+S DB * 0 J 0 a
+S DB * 0 J 3 b
+S DB * 0 J 0 c
+S DB * 0 J 0 d
+S DB * 0 J 1 e
+S DB * 0 J 0 f
+S DB * 0 J 0 g
+S DB * 0 J 0 h
+S DB * 0 J 1 i
+S DB * 0 J 0 j
+S DB * 0 J 0 k
+S DB * 0 J 0 l
+S DB * 0 J 0 m
+S DB * 0 J 10 o
+S DB * 0 J 0 p
+S DB * 0 J 0 q
+S DB * 0 J 0 r
+S DB * 0 J 0 s
+S DB * 0 J 0 t
+S DB * 0 J 0 u
+S DB * 0 J 24 v
+S DB * 0 J 0 w
+S DB * 0 J 0 x
+S DB * 0 J 0 y
+S DB * 0 J 0 z
+S SERVER devel.space 2 0 1053525103 P10 UP] 0 :Servicios de Operadores
+S SERVER bots.space 2 0 1053544643 P09 6A] 0 :Servicios de SpainChat
+S NICK Drazix 1 1053537055 LeGeN dragon.digitalsec.net +rhxai DPLMwE SAC :ADMINistrador SpainChat
+S NICK ^ToCnAzA^ 1 1053460652 toc hispashell.com +xi BC]AuC SAI :tocnaza
+S NICK Phanatico 1 1053462253 mucha phanatico.planetredes.net +xi DPLM0P SAJ :Planetredes (venta de shells)
+U NICK CenTraL 2 1053525103 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053525103 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053525103 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+S NICK CReG 1 1053536948 - 207.44.206.190 +rxIowdkg DPLM6[ SAu :Servicio de PReregistro de Canales.
+6 NICK NiCK 2 1053544643 - - +dk AAAAAA 6AA :Servicio de NiCKS
+6 NICK CHaN 2 1053544643 - - +Boidk AAAAAA 6AB :Servicio de Canales
+6 NICK HeLP 2 1053544643 - - +d AAAAAA 6AC :Servicio de Ayuda
+6 NICK MeMO 2 1053544643 - - +rdk AAAAAA 6AD :Servicio de Mensajería
+6 NICK OPeR 2 1053544643 - - +Boidk AAAAAA 6AE :Servicio para OPERadores
+6 NICK GLoBaL 2 1053544643 - - +roik AAAAAA 6AF :Servicio de Mensajeria Global
+6 NICK NeWS 2 1053544643 - - +ok AAAAAA 6AG :Servicio de noticias
+S NICK BaLTaZh0r 1 1053560435 Admin 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBE :Admin
+S NICK Nach 1 1053560465 Nach 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBF :No hay nada malo en desearlo...
+S NICK kDs 1 1053600588 ngs 27.Red-80-33-98.pooles.rima-tde.net +xi BQIWIb SBJ :A veces soy un IDle
+S NICK YeTnEdLaC 1 1053609447 Spain 62.22.183.103 +rhxac A[Frdn SBL :KaOs
+S BURST #amigos 1053560474 SBF:o
+S BURST #melilla 1053560399 SBJ,SBF
+S BURST #scripting 1053560397 SBJ,SBE
+S BURST #administracion 1053544148 +stinlk 1 spainchat SAC:o,6AB
+S BURST #Ayuda_Scripting 1053462268 SAJ:o
+S BURST #psy 1053462266 SAJ:o
+S BURST #ayuda_irc 1053462264 SAJ:o
+S BURST #madrid 1053462262 SAJ:o
+S BURST #planetredes 1053462260 SAJ:o
+S BURST #devel 1053460680 +tnRM 6AB:o
+S BURST #opers_help 1053460641 +mtn UAD,6AB:o
+S BURST #Debug 1053460639 +smtinlk 1 spainchat UAB:ov,UAA,6AE:o,6AD,6AC,6AB,6AA,SAu,SAC
+S BURST #spainchat 1053460635 +tn SBL,SBJ,SBF,SBE,SAC,SAJ,SAI,SAu:v,6AB:o
+S BURST #radio 1053460633 +tn SBJ,SBF,SBE,SAI,6AB:o
+S BURST #shells 1053460632 +tn SBF,SBE,SAC,SAJ,SAI
+S BURST #psybnc 1053460632 +tn SBJ,SBF,SBE,SAC
+S END_OF_BURST
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAE :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAG :world.spainchat.net (1 <- 1[bosque.space])
+:world.spainchat.net 432 bosque.space 1 :Invalid Nickname
+S KILL HAH :world.spainchat.net (1 <- 1[bosque.space])
+:NeWS PRIVMSG HAA :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAC :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:NeWS PRIVMSG HAD :[4Noticias de la red - 12May 21 2003] Bienvenid@s a SpainChat · Canal de reencuentro de la red 12#spainchat · Canal de ayuda oficial 12#opers_help · ¡ Distruta de la estancia !
+:CHaN NOTICE HAA :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+:CHaN NOTICE HAC :Canal OFICIAL de SpainChat - www.spainchat.net -
+S NOTICE HAA :DBQ ERROR Tabla='o' Clave='news' REGISTRO_NO_ENCONTRADO
+:world.spainchat.net 401 SuX * :Target left IRC. Failed to deliver: [:NeWS PRIVMSG HAB :[4Noticias de la red - 12May]
+SBL JOIN #Debug
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+:OPeR MODE #Debug +o SBL  
+:YeTnEdLaC WHOIS H :NiCK2
+:YeTnEdLaC PRIVMSG HAD :join #spainchat
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAD :Canal OFICIAL de SpainChat - www.spainchat.net -
+:YeTnEdLaC WHOIS H :VHoST
+:YeTnEdLaC PRIVMSG HAB :join #spainchat
+:world.spainchat.net 401 VHoST * :Target left IRC. Failed to deliver: [S NOTICE HAB :DBQ OK Tabla='o' Clave='yetnedlac' V]
+:CHaN NOTICE HAB :Canal OFICIAL de SpainChat - www.spainchat.net -
+SBL PART #spainchat
+SBL JOIN #spainchat
+:OPeR MODE #spainchat +o SBL  
+:YeTnEdLaC MODE #spainchat +vv HAD  HAB  
+:YeTnEdLaC MODE #spainchat -o SBL  
+:YeTnEdLaC MODE YeTnEdLaC :+owg
+S SERVER impacta.spainchat.net 2 0 1053609610 J10 ID] 0 :Servidor IRC de Impacta Computer
+I END_OF_BURST
+:CenTraL QUIT :Desconexcion Ordenada
+:DeBuG QUIT :Desconexcion Ordenada
+:_antispam QUIT :Desconexcion Ordenada
+:devel.space SQUIT devel.space 1053525103 :devel.space
+I EOB_ACK
+S SERVER devel.space 2 0 1053609733 J10 UP] 0 :Servicios de Operadores
+U NICK CenTraL 2 1053609733 - - +rXBodk DDNSca UAA :Servicio de ADMINistradores.
+U NICK DeBuG 2 1053609733 - - +rXBodk DDNSca UAB :Servicio de control de la red.
+U NICK _antispam 2 1053609733 - - +rXBodk DDNSca UAD :Servicio de Anti-Spam
+UAA JOIN #Debug
+UAB JOIN #Debug
+UAD JOIN #Debug
+:devel.space MODE #Debug +v UAA  
+:devel.space MODE #Debug +v UAB  
+:devel.space MODE #Debug +v UAD  
+:devel.space MODE #Debug +v UAA  
+:devel.space MODE #Debug +v UAB  
+:devel.space MODE #Debug +v UAD  
+:devel.space MODE #Debug +v UAB  
+U END_OF_BURST
+U EOB_ACK
+S NICK PoWaH 1 1053610888 Anonymous 48.Red-81-32-46.pooles.rima-tde.net +x BRIC4w SBM :Anonymous
+:PoWaH AWAY :Kurrando
+:PoWaH MODE PoWaH :+i
+SBM NICK Phantom 1053610898
+:Phantom MODE Phantom :+rh
+:Phantom QUIT :0,1 0,12 0,15 1,0 HennesScript <12NW1> 0.61b 0,15 0,12 0,1 
+I NICK PoWaH 2 1053610913 Anonymous 48.Red-81-32-46.pooles.rima-tde.net +x BRIC4w IAA :Anonymous
+:PoWaH AWAY :Kurrando
+:PoWaH MODE PoWaH :+i
+IAA NICK Phantom 1053610932
+:Phantom MODE Phantom :+rh
+IAA JOIN #opers_help
+:CHaN TOPIC #opers_help :Plantea tu duda a un único 12OPERador 10[14@10] por privado y una vez atendido abandona el canal, gracias. 4NO hables en el canal ;)
+:OPeR MODE #opers_help +o IAA  
+UAD JOIN #opers_help
+IAA JOIN #spainchat
+:OPeR MODE #spainchat +o IAA  
+:Phantom MODE #spainchat -o IAA  
+:YeTnEdLaC AWAY :Currant
+S NICK Tresde 1 1053611335 somnisoft 80.28.160.5 +x BQHKAF SBN :www.somnisoft.cjb.net
+:Tresde QUIT :2[ SomniSoft Script ] :: [ www.somnisoft.cjb.net ]
+S NICK Dream 1 1053613032 Dream 80-25-159-197.uc.nombres.ttd.es +x BQGZ]F SBO :x-chat
+:Dream MODE Dream :+i
+SBO NICK ^_Dream_^ 1053613179
+SBO JOIN #spainchat
+:^_Dream_^ PRIVMSG HAD :help
+:world.spainchat.net 401 NiCK2 * :Target left IRC. Failed to deliver: [S NOTICE HAD :DBQ ERROR Tabla='o' Clave='~_dream_~]
+:impacta.spainchat.net NOTICE HAD :DBQ ERROR Tabla='o' Clave='~_dream_~' REGISTRO_NO_ENCONTRADO
+:^_Dream_^ PRIVMSG HAD :register
+:^_Dream_^ PRIVMSG HAD :register david2032
+:world.spainchat.net 412 CaLC :No text to send
+SBO NICK lala 1053613207
+SBO NICK ^_Dream_^ 1053613212
+:^_Dream_^ MODE ^_Dream_^ :+r
+SBO JOIN #opers_help
+UAD PART #opers_help
+SBO PART #opers_help
+IAA JOIN #Debug
+:OPeR MODE #Debug +o IAA  
+UAD PART #Debug
+IAA JOIN #administracion
+:OPeR MODE #administracion +o IAA  
+S NICK TecnoLogY 1 1053615606 tecno 213-98-217-243.uc.nombres.ttd.es +rhxa DVYtnz SBP :[ TecnoLogY 4™ ] 
+:TecnoLogY MODE TecnoLogY :+iw
+SBP JOIN #Debug
+:OPeR MODE #Debug +o SBP  
+SBP JOIN #spainchat
+:OPeR MODE #spainchat +o SBP  
+SBP JOIN #opers_help
+:OPeR MODE #opers_help +o SBP  
+:TecnoLogY MODE #opers_help -o IAA  
+SBP PART #opers_help
+:TecnoLogY QUIT :[ TecnoLogY 4™ ] 
+IAA PART #administracion
+IAA PART #Debug
+IAA PART #opers_help
+IAA PART #spainchat
+:Phantom QUIT :0,1 0,12 0,15 1,0 HennesScript <12NW1> 0.61b 0,15 0,12 0,1 
+SBO JOIN #opers_help
+:CHaN TOPIC #opers_help :Plantea tu duda a un único 12OPERador 10[14@10] por privado y una vez atendido abandona el canal, gracias. 4NO hables en el canal ;)
+UAD JOIN #opers_help
+SBO PART #opers_help
+UAD PART #opers_help
+I NICK PoWaH 2 1053617881 Anonymous 48.Red-81-32-46.pooles.rima-tde.net +x BRIC4w IAB :Anonymous
+:PoWaH AWAY :Kurrando
+:PoWaH MODE PoWaH :+i
+:PoWaH AWAY
+IAB NICK Phantom 1053617894
+:Phantom MODE Phantom :+rh
+:Phantom MODE Phantom :+owg
+:^_Dream_^ QUIT :Ping timeout
+S NICK DRaZiX_69 1 1053620842 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 SBQ :7,1ThE aNGeL oF DaRkNeSs
+:DRaZiX_69 MODE DRaZiX_69 :+i
+I NICK |nFieRNo 2 1053620853 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 IAC :7,1ThE aNGeL oF DaRkNeSs
+:|nFieRNo MODE |nFieRNo :+i
+IAC JOIN #spainchat
+SBQ NICK Tq-Drazix 1053620890
+:Tq-Drazix MODE Tq-Drazix :+r
+SBQ JOIN #spainchat
+S NICK aaa 1 1053620903 drummy 164.Red-81-42-73.pooles.rima-tde.net +x BRKkmk SBR :Diseñador Grafico de la Red SpainChat
+:aaa MODE aaa :+i
+SBR NICK drummy 1053620913
+:drummy MODE drummy :+r
+SBR JOIN #spainchat
+SBR CREATE #WaRNeRSeX 1053620927
+:drummy MODE #WaRNeRSeX +nt 
+S NICK azoe[X] 1 1053620968 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SBS :7,1ThE aNGeL oF DaRkNeSs
+IAB JOIN #administracion
+:OPeR MODE #administracion +o IAB  
+IAB JOIN #Debug
+:OPeR MODE #Debug +o IAB  
+I NICK ImpactaComputer 2 1053621059 Tienda 62.22.183.103 +x A[Frdn IAD :Tienda
+IAD CREATE #Manacor 1053621065
+:ImpactaComputer MODE ImpactaComputer :+i
+SBQ CREATE #AZ 1053621146
+SBQ PART #AZ
+:azoe[X] QUIT :Ping timeout
+S NICK azoe[X] 1 1053621155 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SBT :7,1ThE aNGeL oF DaRkNeSs
+S NICK Dream 1 1053621104 Dream 80-25-159-197.uc.nombres.ttd.es +x BQGZ]F SBU :x-chat
+:Dream MODE Dream :+i
+SBU NICK ^_Dream_^ 1053621209
+:^_Dream_^ MODE ^_Dream_^ :+r
+SBU JOIN #spainchat
+SBT JOIN #spainchat
+:drummy QUIT :Crees que lo que respiras es aire? En este mundo nada es real, es todo programación, como.... MATRIX
+S NICK aaa 1 1053621330 drummy 164.Red-81-42-73.pooles.rima-tde.net +x BRKkmk SBV :9,1 Diseñador Grafico de la Red Spainchat
+SBU JOIN #radio
+:aaa MODE aaa :+i
+SBV JOIN #spainchat
+SBV CREATE #WaRNeRSeX 1053621371
+SBU PART #radio :Terminando cliente
+SBV NICK drummy 1053621380
+:drummy MODE drummy :+r
+:drummy MODE #WaRNeRSeX +nt 
+:Drazix AWAY
+:CHaN MODE #spainchat +o SBU  
+:azoe[X] QUIT :Ping timeout
+S NICK azoe[X] 1 1053621541 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +rx BQGPY0 SBW :7,1ThE aNGeL oF DaRkNeSs
+:azoe[X] QUIT :Read error: Connection reset by peer
+:CHaN MODE #spainchat +o SBV  
+S NICK azan 1 1053621589 iNFeRiuS 80-24-246-52.uc.nombres.ttd.es +x BQGPY0 SBY :7,1ThE aNGeL oF DaRkNeSs
+:azan MODE azan :+i
+SBY NICK azoe[X] 1053621627
+:azoe[X] MODE azoe[X] :+r
+SBY JOIN #spainchat
+S NICK Ta[k]eR 1 1053621751 Quesada 220.Red-81-40-212.pooles.rima-tde.net +x BRKNTc SBZ :http://www.DivXManiacos.

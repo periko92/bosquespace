@@ -1,0 +1,14 @@
+@vhostoperhelp = (
+"12VHoST personaliza tu vhost gratuitamente en DarkBolt.",
+" \n",
+"Más Ayuda:12/msg VHoST HELP <comando>.",
+"Para Ejecutar Comandos:12/msg VHoST <comando> <parametro>.",
+" \n",
+"12VHOST Pon tu vhost personalizada. ",
+"12DELHOST Borra tu vhost.",
+"12INFO Muestra la informacion de una vhost.",
+" \n",
+"4NOTA: El Mal uso del bot puede provocar problemas",
+"en la BDD del servidor.",
+);
+1;

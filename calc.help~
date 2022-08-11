@@ -1,0 +1,18 @@
+@calchelp = (
+"4CaLC 1este Servicio te permite hacer calculos en DarkBolt",
+"Mas Ayuda:12/msg CaLC HELP <comando> .",
+"Para Ejecutar Comandos:12/msg CaLC <comando> <parametro>.",
+" \n",
+"12HELP Muestra la Ayuda del Bot.",
+"12SUMA Hace la Suma de dos Numeros.",
+"12RESTA Hace la Resta de dos Numeros.",
+"12MULTIPLICACION Hace la Multiplicacion de dos Numeros.",
+"12DIVISION Hace la Division de dos Numeros.",
+"12EURPTS Pasa de Euros a Pesetas.",
+"12PTSEUR Pasa de Pesetas a Euros.",
+"12CREDITOS Muestra los Creditos del Bot.",
+" \n",
+"4AVISO: No Pongas Signos porque no le hace falta a los comandos",
+"si entre el comando pones un +,-,/,*,etc... no funcionara el comando.",
+);
+1;
